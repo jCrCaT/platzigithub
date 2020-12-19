@@ -1,1 +1,2 @@
-Este es un archivo de prueba
+Este es un archivo de prueba.
+Una nueva versión del archivo
