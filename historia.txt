@@ -1,2 +1,3 @@
 Este es un archivo de prueba.
-Una nueva versión del archivo
+Una nueva versión del archivo.
+Otra vez se realiza un cambio
